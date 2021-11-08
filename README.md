@@ -5,7 +5,7 @@
 - 🦸‍♀️ 25 anos, brasileira | 25yo, brazilian
 - 🎓 Desenvolvimento de Software Multiplataforma | Cross-plataform Development
 - 📚 Full Stack & Data
-- 😍 Amante de Viagens, Esportes, Família e Pets | Lover of Travel, Sports, Family and Pets
+- 😍 Amante de Viagens, Esportes e Pets | Lover of Travel, Sports and Pets
 
 <br>
 
