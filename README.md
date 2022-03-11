@@ -2,7 +2,7 @@
 
 <br>
 
-- 🦸‍♀️ 25 anos, brasileira | 25yo, brazilian
+- 🦸‍♀️ 26 anos, brasileira | 26yo, brazilian
 - 🎓 Desenvolvimento de Software Multiplataforma | Cross-plataform Development
 - 📚 Full Stack & Data
 - 😍 Amante de Viagens, Esportes e Pets | Lover of Travel, Sports and Pets
@@ -21,11 +21,11 @@
   <img align="center" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Gabi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Gabi-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Gabi-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://github.com/GabrieleGVieira/GabrieleGVieira/blob/main/logo.png">
 </div>
   
