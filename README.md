@@ -2,10 +2,11 @@
 
 <br>
 
-- 🦸‍♀️ 26 anos, brasileira | 26yo, brazilian
-- 🎓 Desenvolvimento de Software Multiplataforma | Cross-plataform Development
+- 🦸‍♀️ 27 anos, brasileira | 27yo, brazilian
+- 🎓 Desenvolvimento de Software | Software Development
 - 📚 Full Stack & Data
-- 😍 Amante de Viagens, Esportes e Pets | Lover of Travel, Sports and Pets
+- 🌎 Amante de Viagens | Travel Lover
+- 💻 https://gabrielegvieira.github.io/gabriele-vieira/
 
 <br>
 
