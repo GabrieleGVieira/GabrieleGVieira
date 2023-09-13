@@ -3,10 +3,11 @@
 <br>
 
 - 🦸‍♀️ 27 anos, brasileira | 27yo, brazilian
-- 🎓 Desenvolvimento de Software | Software Development
-- 📚 Full Stack & Data
+- 🎓 Software Engineer
+- 📚 Full Stack Developer
 - 🌎 Amante de Viagens | Travel Lover
 - 💻 https://gabrielegvieira.github.io/gabriele-vieira/
+
 
 <br>
 
