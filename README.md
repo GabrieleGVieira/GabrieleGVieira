@@ -2,7 +2,7 @@
 
 <br>
 
-- 🦸‍♀️ 27 anos, brasileira | 27yo, brazilian
+- 🦸‍♀️ 30 anos, brasileira | 30 yo, brazilian
 - 🎓 Software Engineer
 - 📚 Full Stack Developer
 - 🌎 Amante de Viagens | Travel Lover
